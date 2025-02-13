@@ -1,6 +1,6 @@
 # HW2
 # Ownership
-- Loaie Shalloufi - 211757166
+- Loaie Shalloufi
 
 - Class: 48-5
 
